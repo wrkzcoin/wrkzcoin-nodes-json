@@ -1,2 +1,4 @@
 # wrkzcoin-nodes-json
-Json list of public daemons 
+From https://github.com/turtlecoin/turtlecoin-nodes-json
+
+
