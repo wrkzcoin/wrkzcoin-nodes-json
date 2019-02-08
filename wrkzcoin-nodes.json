@@ -26,7 +26,7 @@
     },
     {
       "name": "WRKZ pubnode-sg1",
-      "url": "node-sg1.wrkz.work ",
+      "url": "node-sg1.wrkz.work",
       "port": 17856,
       "ssl": false
     },
