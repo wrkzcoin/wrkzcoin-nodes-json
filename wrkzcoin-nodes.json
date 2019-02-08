@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "name": "sniperviperman pubnode",
+      "url": "wrkz.stx.nl",
+      "port": 17856,
+      "ssl": false
+    },
+    {
+      "name": "WRKZ pubnode-pr1",
+      "url": "node-pr1.wrkz.work",
+      "port": 17856,
+      "ssl": false
+    },
+    {
+      "name": "WRKZ pubnode-pr2",
+      "url": "node-pr2.wrkz.work",
+      "port": 17856,
+      "ssl": false
+    },
+    {
+      "name": "WRKZ pubnode-pr3",
+      "url": "node-pr3.wrkz.work",
+      "port": 17856,
+      "ssl": false
+    },
+    {
+      "name": "WRKZ pubnode-sg1",
+      "url": "node-sg1.wrkz.work ",
+      "port": 17856,
+      "ssl": false
+    },
+    {
+      "name": "WRKZ pubnode-us1",
+      "url": "node-us1.wrkz.work",
+      "port": 17856,
+      "ssl": false
+    }
+  ]
+}
