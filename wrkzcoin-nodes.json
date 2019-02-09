@@ -7,6 +7,12 @@
       "ssl": false
     },
     {
+      "name": "stroppyscryptos.net pubnode",
+      "url": "116.250.211.215",
+      "port": 17856,
+      "ssl": false
+    },
+    {
       "name": "WRKZ pubnode-pr1",
       "url": "node-pr1.wrkz.work",
       "port": 17856,
