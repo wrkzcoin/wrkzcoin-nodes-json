@@ -1,5 +1,11 @@
 {
   "nodes": [
+   {
+      "name": "greywolf Germany",
+      "url": "wrkz.xyz",
+      "port": 17856,
+      "ssl": false
+    },
     {
       "name": "sniperviperman pubnode",
       "url": "wrkz.stx.nl",
