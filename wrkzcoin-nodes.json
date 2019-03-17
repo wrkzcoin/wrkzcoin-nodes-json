@@ -13,8 +13,8 @@
       "ssl": false
     },
     {
-      "name": "stroppyscryptos.net pubnode",
-      "url": "wrkz-stroppy.ddns.net",
+      "name": "stroppy.tk pubnode",
+      "url": "stroppy.ddns.net",
       "port": 17856,
       "ssl": false
     },
