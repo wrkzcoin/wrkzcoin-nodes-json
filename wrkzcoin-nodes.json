@@ -8,13 +8,13 @@
     },
     {
       "name": "sniperviperman pubnode",
-      "url": "wrkz.stx.nl",
+      "url": "5.172.219.174",
       "port": 17856,
       "ssl": false
     },
     {
-      "name": "stroppy.tk pubnode",
-      "url": "stroppy.ddns.net",
+      "name": "stroppy pubnode",
+      "url": "stroppyscryptos.ddns.net",
       "port": 17856,
       "ssl": false
     },
