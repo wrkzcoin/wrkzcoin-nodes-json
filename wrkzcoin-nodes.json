@@ -7,6 +7,12 @@
       "ssl": false
     },
     {
+      "name": "publicnode.ydns.eu",
+      "url": "publicnode.ydns.eu:17856",
+      "port": 17856,
+      "ssl": false
+    },
+    {
       "name": "sniperviperman pubnode",
       "url": "5.172.219.174",
       "port": 17856,
