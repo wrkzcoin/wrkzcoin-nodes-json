@@ -7,6 +7,12 @@
       "ssl": false
     },
     {
+      "name": "clucky Australia 2.00 fee",
+      "url": "wrkzcoinz.ddns.net",
+      "port": 17856,
+      "ssl": false
+    },
+    {
       "name": "publicnode.ydns.eu",
       "url": "publicnode.ydns.eu",
       "port": 17856,
