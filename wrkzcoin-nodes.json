@@ -7,12 +7,6 @@
       "ssl": false
     },
     {
-      "name": "clucky Australia",
-      "url": "wrkzcoinz.ddns.net",
-      "port": 17856,
-      "ssl": false
-    },
-    {
       "name": "CuvéeWRKZ CZ Europe",
       "url": "cuveewrkz.czech.cloud",
       "port": 17856,
@@ -51,6 +45,12 @@
     {
       "name": "WRKZ pubnode-us1",
       "url": "node-us1.wrkz.work",
+      "port": 17856,
+      "ssl": false
+    },
+    {
+      "name": "wrkzcoin.ml Australia",
+      "url": "wrkzcoin.zapto.org",
       "port": 17856,
       "ssl": false
     }
