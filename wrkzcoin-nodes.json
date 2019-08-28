@@ -25,6 +25,12 @@
       "ssl": false
     },
     {
+      "name": "spookypool pubnode",
+      "url": "spookypool.nl",
+      "port": 17856,
+      "ssl": false
+    },
+    {
       "name": "WRKZ pubnode-eu1",
       "url": "node-eu1.wrkz.work",
       "port": 17856,
