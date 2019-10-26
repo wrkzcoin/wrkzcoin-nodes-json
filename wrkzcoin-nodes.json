@@ -25,12 +25,6 @@
       "ssl": false
     },
     {
-      "name": "spookypool pubnode",
-      "url": "spookypool.nl",
-      "port": 17856,
-      "ssl": false
-    },
-    {
       "name": "WRKZ pubnode-eu1",
       "url": "node-eu1.wrkz.work",
       "port": 17856,
@@ -51,12 +45,6 @@
     {
       "name": "WRKZ pubnode-us1",
       "url": "node-us1.wrkz.work",
-      "port": 17856,
-      "ssl": false
-    },
-    {
-      "name": "wrkzcoin.ml Australia",
-      "url": "wrkzcoin.zapto.org",
       "port": 17856,
       "ssl": false
     }
