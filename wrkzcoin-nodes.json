@@ -26,7 +26,7 @@
     },
     {
       "name": "WRKZ pubnode-eu1",
-      "url": "node-eu1.wrkz.work",
+      "url": "myexplorer.wrkz.work",
       "port": 17856,
       "ssl": false
     },
