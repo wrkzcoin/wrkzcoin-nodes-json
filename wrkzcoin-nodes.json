@@ -1,6 +1,20 @@
 {
   "nodes": [
    {
+      "name": "Bot.Tips Blockchain Cache",
+      "url": "wrkz.bot.tips",
+      "port": 80,
+      "ssl": false,
+      "cache": true
+    },
+   {
+      "name": "Bot.Tips Blockchain Cache - SSL",
+      "url": "wrkz.bot.tips",
+      "port": 443,
+      "ssl": true,
+      "cache": true
+    },
+   {
       "name": "greywolf Germany",
       "url": "wrkz.xyz",
       "port": 17856,
