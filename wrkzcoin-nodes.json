@@ -4,49 +4,57 @@
       "name": "greywolf Germany",
       "url": "wrkz.xyz",
       "port": 17856,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
       "name": "CuvéeWRKZ CZ Europe",
       "url": "cuveewrkz.czech.cloud",
       "port": 17856,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
       "name": "publicnode.ydns.eu",
       "url": "publicnode.ydns.eu",
       "port": 17856,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
       "name": "sniperviperman pubnode",
       "url": "5.172.219.174",
       "port": 17856,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
       "name": "WRKZ pubnode-eu1",
       "url": "myexplorer.wrkz.work",
       "port": 17856,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
       "name": "WRKZ pubnode-pr2",
       "url": "node-pr2.wrkz.work",
       "port": 17856,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
       "name": "WRKZ pubnode-sg1",
       "url": "node-sg1.wrkz.work",
       "port": 17856,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
       "name": "WRKZ pubnode-us1",
       "url": "node-us1.wrkz.work",
       "port": 17856,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     }
   ]
 }
