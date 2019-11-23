@@ -1,6 +1,13 @@
 {
   "nodes": [
    {
+      "name": "afterconnery United States",
+      "url": "afterconnery.duckdns.org",
+      "port": 17856,
+      "ssl": false,
+      "cache": false
+   },
+   {
       "name": "Bot.Tips Blockchain Cache",
       "url": "wrkz.bot.tips",
       "port": 80,
