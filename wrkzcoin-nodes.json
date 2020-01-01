@@ -43,6 +43,13 @@
       "cache": false
     },
     {
+      "name": "wrkz.pubnodes.com",
+      "url": "wrkz.pubnodes.com",
+      "port": 17856,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "CuvéeWRKZ RO Europe",
       "url": "derogold4ever.online",
       "port": 17856,
