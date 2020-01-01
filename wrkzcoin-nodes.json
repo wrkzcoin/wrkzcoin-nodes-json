@@ -43,6 +43,13 @@
       "cache": false
     },
     {
+      "name": "wrkz.pubnodes.com",
+      "url": "wrkz.punbodes.com",
+      "port": 17856,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "sniperviperman pubnode",
       "url": "5.172.219.174",
       "port": 17856,
