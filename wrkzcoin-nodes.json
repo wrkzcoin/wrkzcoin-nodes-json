@@ -24,7 +24,7 @@
     {
       "name": "stroppy Australia",
       "url": "stroppy.servebeer.com",
-      "port": 80,
+      "port": 17856,
       "ssl": false,
       "cache": false
     }, 
