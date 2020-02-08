@@ -21,6 +21,13 @@
       "ssl": false,
       "cache": false
     },
+    {
+      "name": "stroppy Australia",
+      "url": "stroppy.servebeer.com",
+      "port": 17856,
+      "ssl": false,
+      "cache": false
+    }, 
    {
       "name": "SolFly (FastPooL.XyZ)",
       "url": "fastpool.xyz",
@@ -38,6 +45,20 @@
     {
       "name": "publicnode.ydns.eu",
       "url": "publicnode.ydns.eu",
+      "port": 17856,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "wrkz.pubnodes.com",
+      "url": "wrkz.pubnodes.com",
+      "port": 17856,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "CuvéeWRKZ RO Europe",
+      "url": "derogold4ever.online",
       "port": 17856,
       "ssl": false,
       "cache": false
@@ -66,6 +87,13 @@
     {
       "name": "WRKZ pubnode-sg1",
       "url": "node-sg1.wrkz.work",
+      "port": 17856,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "WRKZ-UK-PUBLIC-LUX-NODE",
+      "url": "wrkz.luxflow.net",
       "port": 17856,
       "ssl": false,
       "cache": false
