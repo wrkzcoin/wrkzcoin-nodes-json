@@ -20,13 +20,6 @@
       "port": 17856,
       "ssl": false,
       "cache": false
-    },
-    {
-      "name": "stroppy Australia",
-      "url": "stroppy.servebeer.com",
-      "port": 17856,
-      "ssl": false,
-      "cache": false
     }, 
    {
       "name": "SolFly (FastPooL.XyZ)",
@@ -59,13 +52,6 @@
     {
       "name": "CuvéeWRKZ RO Europe",
       "url": "derogold4ever.online",
-      "port": 17856,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "sniperviperman pubnode",
-      "url": "5.172.219.174",
       "port": 17856,
       "ssl": false,
       "cache": false
