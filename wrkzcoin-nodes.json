@@ -78,8 +78,8 @@
       "cache": false
     },
     {
-      "name": "FileBay",
-      "url": "198.251.61.140",
+      "name": "FileBay [Canada]",
+      "url": "wrkz.filebay.org",
       "port": 17856,
       "ssl": false,
       "cache": false
