@@ -1,12 +1,19 @@
 {
   "nodes": [
    {
-      "name": "ARMv7 WRKZ Node",
+      "name": "ARMv7 Blockchain Cache",
       "url": "arm-node.wrkz.work",
-      "port": 17856,
+      "port": 80,
       "ssl": false,
-      "cache": false
-    }, 
+      "cache": true
+    },
+   {
+      "name": "ARMv7 Blockchain Cache - SSL",
+      "url": "arm-node.wrkz.work",
+      "port": 443,
+      "ssl": true,
+      "cache": true
+    },
    {
       "name": "Bot.Tips Blockchain Cache",
       "url": "wrkz.bot.tips",
