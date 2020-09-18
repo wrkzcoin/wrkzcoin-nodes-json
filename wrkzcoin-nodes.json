@@ -43,6 +43,13 @@
       "cache": false
     },
     {
+      "name": "Node Fin",
+      "url": "node-fin.wrkz.work",
+      "port": 17856,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "publicnode.ydns.eu",
       "url": "publicnode.ydns.eu",
       "port": 17856,
