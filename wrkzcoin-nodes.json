@@ -85,18 +85,11 @@
       "cache": false
     },
     {
-      "name": "FileBay [Canada]",
-      "url": "wrkz.filebay.org",
-      "port": 17856,
-      "ssl": false,
-      "cache": false
-    },
-     {
       "name": "Stroppy [Australia]",
       "url": "connectme.servebeer.com",
       "port": 17856,
       "ssl": false,
       "cache": false
-    }   
+    }
   ]
 }
