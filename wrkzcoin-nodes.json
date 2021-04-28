@@ -1,13 +1,6 @@
 {
   "nodes": [
    {
-      "name": "ARMv7 WRKZ Node",
-      "url": "arm-node.wrkz.work",
-      "port": 17856,
-      "ssl": false,
-      "cache": false
-    },
-   {
       "name": "Bot.Tips Blockchain Cache",
       "url": "wrkz.bot.tips",
       "port": 80,
@@ -52,13 +45,6 @@
     {
       "name": "publicnode.ydns.eu",
       "url": "publicnode.ydns.eu",
-      "port": 17856,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "wrkz.pubnodes.com",
-      "url": "wrkz.pubnodes.com",
       "port": 17856,
       "ssl": false,
       "cache": false
