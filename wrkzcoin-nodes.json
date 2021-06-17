@@ -43,15 +43,15 @@
       "cache": false
     },
     {
-      "name": "publicnode.ydns.eu",
-      "url": "publicnode.ydns.eu",
+      "name": "CuvéeWRKZ CZ Europe",
+      "url": "cz.derogold4ever.online",
       "port": 17856,
       "ssl": false,
       "cache": false
     },
     {
       "name": "CuvéeWRKZ RO Europe",
-      "url": "derogold4ever.online",
+      "url": "ro.derogold4ever.online",
       "port": 17856,
       "ssl": false,
       "cache": false
