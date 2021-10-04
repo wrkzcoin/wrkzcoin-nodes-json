@@ -20,13 +20,6 @@
       "port": 17856,
       "ssl": false,
       "cache": false
-    }, 
-   {
-      "name": "SolFly (FastPooL.XyZ)",
-      "url": "fastpool.xyz",
-      "port": 17856,
-      "ssl": false,
-      "cache": false
     },
     {
       "name": "CuvéeWRKZ CZ Europe",
