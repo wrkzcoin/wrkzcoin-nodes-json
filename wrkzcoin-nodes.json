@@ -50,13 +50,6 @@
       "cache": false
     },
     {
-      "name": "WRKZ pubnode-explorer",
-      "url": "myexplorer.wrkz.work",
-      "port": 17856,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "WRKZ-UK-PUBLIC-LUX-NODE",
       "url": "wrkz.luxflow.net",
       "port": 17856,
