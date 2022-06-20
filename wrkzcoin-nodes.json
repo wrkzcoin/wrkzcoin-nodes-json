@@ -50,8 +50,15 @@
       "cache": false
     },
     {
-      "name": "Smurf0280",
+      "name": "Smurf0280 - First",
       "url": "152.67.150.216",
+      "port": 17856,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Smurf0280 - Second",
+      "url": "132.145.51.167",
       "port": 17856,
       "ssl": false,
       "cache": false
