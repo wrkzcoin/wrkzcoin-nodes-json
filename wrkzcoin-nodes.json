@@ -14,27 +14,6 @@
       "ssl": true,
       "cache": true
     },
-    {
-      "name": "CuvéeWRKZ CZ Europe",
-      "url": "cuveewrkz.czech.cloud",
-      "port": 17856,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "CuvéeWRKZ CZ Europe",
-      "url": "cz.derogold4ever.online",
-      "port": 17856,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "CuvéeWRKZ RO Europe",
-      "url": "ro.derogold4ever.online",
-      "port": 17856,
-      "ssl": false,
-      "cache": false
-    },
    {
       "name": "greywolf Germany",
       "url": "wrkz.xyz",
@@ -50,6 +29,13 @@
       "cache": false
     },
     {
+      "name": "Node BTIPZ",
+      "url": "node-wrkz.btipz.com",
+      "port": 17856,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Smurf0280 - First",
       "url": "152.67.150.216",
       "port": 17856,
@@ -59,13 +45,6 @@
     {
       "name": "Smurf0280 - Second",
       "url": "132.145.51.167",
-      "port": 17856,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "WRKZ-UK-PUBLIC-LUX-NODE",
-      "url": "wrkz.luxflow.net",
       "port": 17856,
       "ssl": false,
       "cache": false
